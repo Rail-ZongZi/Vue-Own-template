@@ -1,3 +1,5 @@
-/**
- * 粽子
- */
+module.exports = {
+  plugins: {
+    autoprefixer: {}
+  }
+};
