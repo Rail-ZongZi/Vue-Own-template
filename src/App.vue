@@ -1,6 +1,10 @@
 <template>
   <div id="app">
-    Vue.js知识点学习
+    <p>
+      <router-link to="/">Home首页</router-link>
+      <router-link to="/about">About页面</router-link>
+    </p>
+    <router-view/>
   </div>
 </template>
 
