@@ -20,42 +20,30 @@ charset = utf-8
     │  ├─fonts      // 字体文件
     │  ├─images     // 图片文件
     │  │      logo.png
-    │  │
     │  └─styles    // 样式文件
     │      │  index.less
-    │      │
     │      └─realize
     │              reset.less
-    │
     ├─components    // 组件文件
     ├─config       // 配置文件
     │      index.js
-    │
     ├─directve
     │      index.js
-    │
     ├─lib
     │      tools.js
     │      util.js
-    │
     ├─mock      // 模拟假数据文件
     │      index.js
-    │
     ├─router     // 路由文件
     │      index.js
     │      router.js
-    │
     ├─store     // 数据状态文件
     │  │  actions.js
     │  │  index.js
     │  │  mutations.js
     │  │  state.js
-    │  │
-    │  └─module
+    │  └─module     // 模块文件
     │          user.js
-    │
     └─views     // 存放页面
-            About.vue
-            Home.vue
 ```
 
