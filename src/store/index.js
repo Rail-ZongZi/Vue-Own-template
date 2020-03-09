@@ -5,7 +5,7 @@ import actions from './actions.js'
 import mutations from './mutations.js'
 import user from './module/user.js'
 
-Vue.use(Vuex);
+Vue.use(Vuex)
 
 export default new Vuex.Store({
   state,

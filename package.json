@@ -2,11 +2,14 @@
   "name": "elm-web",
   "version": "0.1.0",
   "private": true,
+  "description": "## Project setup ``` npm install ```",
+  "author": "",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "main": ".eslintrc.js",
   "dependencies": {
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
@@ -34,17 +37,14 @@
     "mockjs": "^1.1.0",
     "vue-template-compiler": "^2.6.11"
   },
-  "description": "## Project setup ``` npm install ```",
-  "main": ".eslintrc.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rail-ZongZi/Vue-Own-template.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Rail-ZongZi/Vue-Own-template/issues"
   },
-  "homepage": "https://github.com/Rail-ZongZi/Vue-Own-template#readme"
+  "homepage": "https://github.com/Rail-ZongZi/Vue-Own-template#readme",
+  "keywords": [],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rail-ZongZi/Vue-Own-template.git"
+  }
 }

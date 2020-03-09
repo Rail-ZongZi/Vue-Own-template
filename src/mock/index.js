@@ -1,6 +1,6 @@
 // TODO 模拟数据
-import Mock from 'mockjs';
+import Mock from 'mockjs'
 
 //
 
-export default Mock;
+export default Mock
