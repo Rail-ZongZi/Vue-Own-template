@@ -85,3 +85,6 @@ console.log(process.env.VUE_APP_XXXX)
 
 - `NODE_ENV` 会是 **development** 和 **production** 中的一个，具体的值取决于应用运行的模式。
 
+#### 五： vue-router 路由
+
+- [路由详情](https://github.com/Rail-ZongZi/Vue-Own-template.wiki.git)
