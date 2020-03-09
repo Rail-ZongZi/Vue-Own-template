@@ -87,4 +87,4 @@ console.log(process.env.VUE_APP_XXXX)
 
 #### 五： vue-router 路由
 
-- [路由详情](https://github.com/Rail-ZongZi/Vue-Own-template.wiki.git)
+- [路由详情](https://github.com/Rail-ZongZi/Vue-Own-template/wiki/vue-router%E8%B7%AF%E7%94%B1%E6%A8%A1%E5%9D%97)
