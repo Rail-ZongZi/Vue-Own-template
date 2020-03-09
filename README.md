@@ -69,13 +69,19 @@ charset = utf-8
 
 - 通过 `process.env.NODE_ENV` 来执行判断环境， 来设置不同的参数
 
+- `BASE_URL` 会和 `vue.config.js` 中的 `publicPath` 选项相符， 即你的应用会部署到的基本路径
+
 > **2:** 使用单独文件进行配置
 
-**<font color=red>我是红色</font>**
+- [x] **注意**
 
--
+- 环境变量必须以 `VUE_APP_` 为开头、比如： `VUE_APP_API`、 `VUE_APP_TITLE`
 
+- [x] **获取方法：**
 
+```javascript
+console.log(process.env.VUE_APP_XXXX)
+```
 
-
+- `NODE_ENV` 会是 **development** 和 **production** 中的一个，具体的值取决于应用运行的模式。
 
