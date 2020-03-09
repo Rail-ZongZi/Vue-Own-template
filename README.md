@@ -8,7 +8,7 @@ charset = utf-8
 
 #### 二： 目录结构设置
 
-```
+```markdown
 ├─public
 │      favicon.ico   # 网页图标
 │      index.html
