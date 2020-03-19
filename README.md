@@ -20,4 +20,12 @@
 
 - 引入 `Element` UI组件库，安装方式 `vue add element-ui`
 
+#### 环境变量和模式
 
+- 开发环境 `.env.development`
+- 生产环境 `.env.production`
+- 测试环境 `.env.test`
+
+#### 样式初始化
+
+- 使用 ``

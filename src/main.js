@@ -3,7 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import ElementUI from 'element-ui'
-// import './assets/styles/realize/element-variables.scss'
+// 进度条
+// import NProgress from 'nprogress'
+// import 'nprogress/nprogress'
+import './assets/styles/index.scss'
 
 Vue.use(ElementUI)
 

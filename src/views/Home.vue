@@ -18,10 +18,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '../assets/styles/realize/element-variables.scss';
+// @import '../assets/styles/realize/element-variables.scss';
 
 .pash {
   font-size: 30px;
-  color: $--color-primary;
+  // color: $--color-primary;
 }
 </style>
