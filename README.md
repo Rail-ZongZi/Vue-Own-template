@@ -18,8 +18,11 @@
 
 > `后端`技术栈和数据库
 
-- koa
-- MongoDB
+- **Koa** 框架搭建后台服务
+  - `koa-router` : 路由
+  - `koa-bodyparser` : 解决 **POST** 请求
+  - `koa-logger` : 请求日志
+- **MongoDB** 做数据存储 
 
 > 项目需求
 
